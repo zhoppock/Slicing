@@ -12,3 +12,5 @@ a += 'de'
 print(a)
 a[2:4] = []
 print(a)
+a[2:3] = [3, 4, 5]
+print(a)
